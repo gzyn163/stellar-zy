@@ -23,7 +23,7 @@
 {"key":"滴滴资源","name":"滴滴资源","api":"https://api.ddapi.cc/api.php/provide/vod/at/xml","type":0},
 {"key":"大地资源","name":"大地资源","api":"https://dadiapi.com/api.php","type":0},
 {"key":"大MM资源","name":"大MM资源","api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","type":0},
-{"key":"奥斯卡资源","name":"奥斯卡资源","api":"https://aosikazy.com/api.php/provide/vod/at/xml","type":0e}
+{"key":"奥斯卡资源","name":"奥斯卡资源","api":"https://aosikazy.com/api.php/provide/vod/at/xml","type":0}
 {"key":"18资源[官方]","name":"18资源[官方]","api":"https://18.cxr.cool/api.php/provide/vod/","type":1},
 {"key":"155资源","name":"155资源","api":"https://www.155api.com/api.php/provide/vod/","type":1},
 
